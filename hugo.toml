@@ -1,0 +1,6 @@
+baseURL = '/'
+languageCode = 'zh-hans'
+title = '薮猫试图'
+theme = 'diary' 
+ 
+ 
