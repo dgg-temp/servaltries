@@ -2,5 +2,22 @@ baseURL = '/'
 languageCode = 'zh-hans'
 title = '薮猫试图'
 theme = 'diary' 
- 
- 
+[menu]
+  [[menu.main]]
+    identifier = "life"
+    name = "拟自动生活"
+    url = "/life/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "thoughts"
+    name = "想想做做"
+    url = "/thoughts/"
+    weight = 2 
+  
+  [[menu.main]]
+    identifier = "learning"
+    name = "浅层学习"
+    url = "/learning/"
+    weight = 3
+
