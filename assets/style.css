@@ -1,0 +1,21 @@
+#like-button {
+  display: flex;
+  align-items: center;
+  font-size: 1.5rem;
+  cursor: pointer;
+  user-select: none;
+  margin-top: 20px;
+}
+
+#like-emoji {
+  margin-right: 8px;
+  transition: transform 0.2s;
+}
+
+#like-emoji:hover {
+  transform: scale(1.2);
+}
+
+#like-count {
+  font-weight: bold;
+}

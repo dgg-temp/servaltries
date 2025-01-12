@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>薮猫试图</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on 薮猫试图</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-hans</language>
     <lastBuildDate>Sat, 11 Jan 2025 17:56:27 -0500</lastBuildDate>
     
-        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     
     
         <item>
         <title>半软半硬饮品</title>
-        <link>/life/soft-hard-drinks/</link>
+        <link>//localhost:1313/life/soft-hard-drinks/</link>
         <pubDate>Sat, 11 Jan 2025 17:56:27 -0500</pubDate>
         
-        <guid>/life/soft-hard-drinks/</guid>
-        <description>薮猫试图 /life/soft-hard-drinks/ -&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+        <guid>//localhost:1313/life/soft-hard-drinks/</guid>
+        <description>薮猫试图 //localhost:1313/life/soft-hard-drinks/ -&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
 &lt;p&gt;（听说）喝酒对脑细胞有不可逆的损伤。我非常需要脑细胞，所以只能喝一点点。用家里的酒尝试了半软半硬饮品，以便想喝点什么时克服启动障碍快速做出来。和人类聊完天时经常想喝点东西来平静大脑，或许是一种self-medication?&lt;/p&gt;
 &lt;h2 id=&#34;尝试的搭配&#34;&gt;尝试的搭配&lt;/h2&gt;
 &lt;ul&gt;
@@ -28,18 +28,18 @@
 &lt;li&gt;清酒+可可粉+牛奶+糖+香草精+棉花糖：大人喝的暖呼呼热巧&lt;/li&gt;
 &lt;li&gt;（待尝试）朗姆酒+菠萝汁+coconut cream: Piña Colada，原料可用罐头&lt;/li&gt;
 &lt;/ul&gt;
-- /life/soft-hard-drinks/ - </description>
+- //localhost:1313/life/soft-hard-drinks/ - </description>
         </item>
     
     
     
         <item>
         <title>钩针</title>
-        <link>/thoughts/crochet/</link>
+        <link>//localhost:1313/thoughts/crochet/</link>
         <pubDate>Sat, 11 Jan 2025 11:59:37 -0500</pubDate>
         
-        <guid>/thoughts/crochet/</guid>
-        <description>薮猫试图 /thoughts/crochet/ -&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+        <guid>//localhost:1313/thoughts/crochet/</guid>
+        <description>薮猫试图 //localhost:1313/thoughts/crochet/ -&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
 &lt;p&gt;钩针融合了重复性、创造力、patterns和细节，（没证据，个人认为）是一项对ND人友好的爱好。作为看得见摸得着的实体手工，每织一点都给人实际的成就感（不像某些工作，不给人实际的成就感）；容错率很高，不小心数错针数也容易调整；就算调整不了，把织好的部分拆开也很解压。&lt;/p&gt;
 &lt;h2 id=&#34;学习&#34;&gt;学习&lt;/h2&gt;
 &lt;ol&gt;
@@ -63,18 +63,18 @@
 &lt;li&gt;做礼物：只送给最亲近的人（送什么都会开心的人）。感觉其他人对手工制品和买来的玩偶的态度也许都差不多。&lt;/li&gt;
 &lt;li&gt;救命！好饿！&lt;/li&gt;
 &lt;/ol&gt;
-- /thoughts/crochet/ - </description>
+- //localhost:1313/thoughts/crochet/ - </description>
         </item>
     
     
     
         <item>
         <title>麦芬</title>
-        <link>/life/muffins/</link>
+        <link>//localhost:1313/life/muffins/</link>
         <pubDate>Fri, 10 Jan 2025 18:54:38 -0500</pubDate>
         
-        <guid>/life/muffins/</guid>
-        <description>薮猫试图 /life/muffins/ -&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+        <guid>//localhost:1313/life/muffins/</guid>
+        <description>薮猫试图 //localhost:1313/life/muffins/ -&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
 &lt;p&gt;最近每周末烤12个麦芬作为一周早餐（如果一打有14个就好了），只需微波炉加热30秒，再加一杯咖啡和一个水果。如果大脑不用思考早晨吃什么，就能省出来一点点空间用来想其他事情，比如吃药和维生素片、记住自己吃了药之类。最初的尝试始于&lt;a href=&#34;https://www.youtube.com/@shangshikitchen/featured&#34;&gt;尚食厨房&lt;/a&gt;的&lt;a href=&#34;https://www.youtube.com/watch?v=KnzLNGCGH_o&#34;&gt;减糖蓝莓麦芬食谱&lt;/a&gt;。&lt;/p&gt;
 &lt;p&gt;（无证据）听说NT人的大脑不会太操心我渴了饿了吗/吃什么/和谁讲什么话/周围好吵怎么办，很多生活琐事都是自动化运行，所以有更多余裕做别的，而我作为ND人试图通过routine达到拟自动化的效果。&lt;/p&gt;
 &lt;p&gt;一周六天吃麦芬，剩下一天吃牛奶燕麦坚果葡萄干，或者英式麦芬和煎蛋XD&lt;/p&gt;
@@ -101,7 +101,7 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;第一次尝试博客&#34;&gt;第一次尝试博客&lt;/h2&gt;
 &lt;p&gt;每一步都会出错，现在饿到没有力气吃饭，原来的meal prep计划在脑子里盘旋却无法启动，救命。&lt;/p&gt;
-- /life/muffins/ - </description>
+- //localhost:1313/life/muffins/ - </description>
         </item>
     
     
