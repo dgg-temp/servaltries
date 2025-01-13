@@ -2,23 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>薮猫试图</title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content on 薮猫试图</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-hans</language>
-    <lastBuildDate>Sat, 11 Jan 2025 17:56:27 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 14:42:30 -0500</lastBuildDate>
     
-        <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+        <item>
+        <title>照顾唯一的盆栽</title>
+        <link>/thoughts/repot_plant/</link>
+        <pubDate>Mon, 13 Jan 2025 14:42:30 -0500</pubDate>
+        
+        <guid>/thoughts/repot_plant/</guid>
+        <description>薮猫试图 /thoughts/repot_plant/ -&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;p&gt;两年前开始养的&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E8%8A%B1%E5%8F%B6%E4%B8%87%E5%B9%B4%E9%9D%92&#34;&gt;花叶万年青&lt;/a&gt;(Dieffenbachia/dumb cane/黛粉芋)现在已经长到了半人高。当初在网上搜了适合新手的坚强盆栽，忐忑地买回来，照着网上的方法照顾，看着卷起的嫩叶逐渐舒展、绿色变深时觉得很安心。很感激它一直提供陪伴，同城搬家容易带，不知道长距离搬家时怎么办，应该也有办法吧。花叶万年青是一种好养的植物，适应力强，但总结下来还是有些杂七杂八的注意事项；如果是娇贵的植物想必更难照顾。&lt;/p&gt;
+&lt;h2 id=&#34;新手的护理&#34;&gt;新手的护理&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;安全&lt;/strong&gt; 汁液有毒所以不能让动物（猫狗和自己）接触。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;光照&lt;/strong&gt; 适合漫反射充足的明亮地方，之前放在阳台门前太亮了，叶子就看起来不太开心；现在放在没有直射光的地方。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;温度&lt;/strong&gt; 在16°C-28°C之间都可以生存，最佳温度是18°C-24°C。听说温度湿度合适时会开花（薮猫的盆栽不需要开花，随意长就行了！）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;湿度&lt;/strong&gt; 最初看到的说明是干土达到一英寸深时浇水，于是我每隔一段时间用手指在植物周围的土里戳戳。用带排水孔的花盆比较方便，浇到排水孔有水流出即可。植物适应力强，水质没有讲究，用自来水就可以。夏天的浇水频率比冬天高。如果一段时间不在家，就用几个aqua globe装水插进花盆，水还是会很快用完，但植物适应力强，可以勉强支撑。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;施肥&lt;/strong&gt; 买了一瓶plant food,浇水时兑一点进去，求个心安。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;防虫&lt;/strong&gt; 这种植物不怎么生虫，但是曾经看到类似spider mite的小虫子，就买了一瓶neem oil经常喷，很难闻，但似乎有效果。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;换盆&lt;/strong&gt; 如果根从排水孔伸出来或者植物停止生长（尽管冬天长得慢一点）说明该换土或换盆了。用普通potting mix就可以，每次换大1-2英寸的花盆比较合适。可以在地上铺好防雨布，换完容易清理。我照&lt;a href=&#34;https://www.thesill.com/blogs/care-miscellaneous/plant-care-repotting&#34;&gt;这个顺序&lt;/a&gt;去年和今年各换过一次，先把新土放进新花盆里再拿出植物比较好，否则拿出之后没地方放，只能找个地方暂时倚住。虽然尽量小心，但也会弄断一点根，只有看到植物在新花盆里继续长才能安心。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;辅助生长&lt;/strong&gt; 第一次换盆时把植物放歪了，买了plant support moss pole（软质的棍子）和茎绑在一起，就变直了。&lt;/li&gt;
+&lt;/ul&gt;
+- /thoughts/repot_plant/ - </description>
+        </item>
     
     
     
         <item>
         <title>半软半硬饮品</title>
-        <link>//localhost:1313/life/soft-hard-drinks/</link>
+        <link>/life/soft-hard-drinks/</link>
         <pubDate>Sat, 11 Jan 2025 17:56:27 -0500</pubDate>
         
-        <guid>//localhost:1313/life/soft-hard-drinks/</guid>
-        <description>薮猫试图 //localhost:1313/life/soft-hard-drinks/ -&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+        <guid>/life/soft-hard-drinks/</guid>
+        <description>薮猫试图 /life/soft-hard-drinks/ -&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
 &lt;p&gt;（听说）喝酒对脑细胞有不可逆的损伤。我非常需要脑细胞，所以只能喝一点点。用家里的酒尝试了半软半硬饮品，以便想喝点什么时克服启动障碍快速做出来。和人类聊完天时经常想喝点东西来平静大脑，或许是一种self-medication?&lt;/p&gt;
 &lt;h2 id=&#34;尝试的搭配&#34;&gt;尝试的搭配&lt;/h2&gt;
 &lt;ul&gt;
@@ -28,18 +52,18 @@
 &lt;li&gt;清酒+可可粉+牛奶+糖+香草精+棉花糖：大人喝的暖呼呼热巧&lt;/li&gt;
 &lt;li&gt;（待尝试）朗姆酒+菠萝汁+coconut cream: Piña Colada，原料可用罐头&lt;/li&gt;
 &lt;/ul&gt;
-- //localhost:1313/life/soft-hard-drinks/ - </description>
+- /life/soft-hard-drinks/ - </description>
         </item>
     
     
     
         <item>
         <title>钩针</title>
-        <link>//localhost:1313/thoughts/crochet/</link>
+        <link>/thoughts/crochet/</link>
         <pubDate>Sat, 11 Jan 2025 11:59:37 -0500</pubDate>
         
-        <guid>//localhost:1313/thoughts/crochet/</guid>
-        <description>薮猫试图 //localhost:1313/thoughts/crochet/ -&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+        <guid>/thoughts/crochet/</guid>
+        <description>薮猫试图 /thoughts/crochet/ -&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
 &lt;p&gt;钩针融合了重复性、创造力、patterns和细节，（没证据，个人认为）是一项对ND人友好的爱好。作为看得见摸得着的实体手工，每织一点都给人实际的成就感（不像某些工作，不给人实际的成就感）；容错率很高，不小心数错针数也容易调整；就算调整不了，把织好的部分拆开也很解压。&lt;/p&gt;
 &lt;h2 id=&#34;学习&#34;&gt;学习&lt;/h2&gt;
 &lt;ol&gt;
@@ -63,18 +87,18 @@
 &lt;li&gt;做礼物：只送给最亲近的人（送什么都会开心的人）。感觉其他人对手工制品和买来的玩偶的态度也许都差不多。&lt;/li&gt;
 &lt;li&gt;救命！好饿！&lt;/li&gt;
 &lt;/ol&gt;
-- //localhost:1313/thoughts/crochet/ - </description>
+- /thoughts/crochet/ - </description>
         </item>
     
     
     
         <item>
         <title>麦芬</title>
-        <link>//localhost:1313/life/muffins/</link>
+        <link>/life/muffins/</link>
         <pubDate>Fri, 10 Jan 2025 18:54:38 -0500</pubDate>
         
-        <guid>//localhost:1313/life/muffins/</guid>
-        <description>薮猫试图 //localhost:1313/life/muffins/ -&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+        <guid>/life/muffins/</guid>
+        <description>薮猫试图 /life/muffins/ -&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
 &lt;p&gt;最近每周末烤12个麦芬作为一周早餐（如果一打有14个就好了），只需微波炉加热30秒，再加一杯咖啡和一个水果。如果大脑不用思考早晨吃什么，就能省出来一点点空间用来想其他事情，比如吃药和维生素片、记住自己吃了药之类。最初的尝试始于&lt;a href=&#34;https://www.youtube.com/@shangshikitchen/featured&#34;&gt;尚食厨房&lt;/a&gt;的&lt;a href=&#34;https://www.youtube.com/watch?v=KnzLNGCGH_o&#34;&gt;减糖蓝莓麦芬食谱&lt;/a&gt;。&lt;/p&gt;
 &lt;p&gt;（无证据）听说NT人的大脑不会太操心我渴了饿了吗/吃什么/和谁讲什么话/周围好吵怎么办，很多生活琐事都是自动化运行，所以有更多余裕做别的，而我作为ND人试图通过routine达到拟自动化的效果。&lt;/p&gt;
 &lt;p&gt;一周六天吃麦芬，剩下一天吃牛奶燕麦坚果葡萄干，或者英式麦芬和煎蛋XD&lt;/p&gt;
@@ -101,7 +125,7 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;第一次尝试博客&#34;&gt;第一次尝试博客&lt;/h2&gt;
 &lt;p&gt;每一步都会出错，现在饿到没有力气吃饭，原来的meal prep计划在脑子里盘旋却无法启动，救命。&lt;/p&gt;
-- //localhost:1313/life/muffins/ - </description>
+- /life/muffins/ - </description>
         </item>
     
     
