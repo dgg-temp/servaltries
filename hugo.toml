@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://dgg-temp.github.io/servaltries/'
 languageCode = 'zh-hans'
 title = '薮猫试图'
 theme = 'diary' 

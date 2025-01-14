@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thoughts on 薮猫试图</title>
-    <link>/thoughts/</link>
+    <link>http://localhost:1313/servaltries/thoughts/</link>
     <description>Recent content in Thoughts on 薮猫试图</description>
     <generator>Hugo</generator>
     <language>zh-hans</language>
     <lastBuildDate>Mon, 13 Jan 2025 14:42:30 -0500</lastBuildDate>
-    <atom:link href="/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/servaltries/thoughts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>照顾唯一的盆栽</title>
-      <link>/thoughts/repot_plant/</link>
+      <link>http://localhost:1313/servaltries/thoughts/repot_plant/</link>
       <pubDate>Mon, 13 Jan 2025 14:42:30 -0500</pubDate>
-      <guid>/thoughts/repot_plant/</guid>
+      <guid>http://localhost:1313/servaltries/thoughts/repot_plant/</guid>
       <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;&#xA;&lt;p&gt;两年前开始养的&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E8%8A%B1%E5%8F%B6%E4%B8%87%E5%B9%B4%E9%9D%92&#34;&gt;花叶万年青&lt;/a&gt;(Dieffenbachia/dumb cane/黛粉芋)现在已经长到了半人高。当初在网上搜了适合新手的坚强盆栽，忐忑地买回来，照着网上的方法照顾，看着卷起的嫩叶逐渐舒展、绿色变深时觉得很安心。很感激它一直提供陪伴，同城搬家容易带，不知道长距离搬家时怎么办，应该也有办法吧。花叶万年青是一种好养的植物，适应力强，但总结下来还是有些杂七杂八的注意事项；如果是娇贵的植物想必更难照顾。&lt;/p&gt;&#xA;&lt;h2 id=&#34;新手的护理&#34;&gt;新手的护理&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;安全&lt;/strong&gt; 汁液有毒所以不能让动物（猫狗和自己）接触。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;光照&lt;/strong&gt; 适合漫反射充足的明亮地方，之前放在阳台门前太亮了，叶子就看起来不太开心；现在放在没有直射光的地方。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;温度&lt;/strong&gt; 在16°C-28°C之间都可以生存，最佳温度是18°C-24°C。听说温度湿度合适时会开花（薮猫的盆栽不需要开花，随意长就行了！）。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;湿度&lt;/strong&gt; 最初看到的说明是干土达到一英寸深时浇水，于是我每隔一段时间用手指在植物周围的土里戳戳。用带排水孔的花盆比较方便，浇到排水孔有水流出即可。植物适应力强，水质没有讲究，用自来水就可以。夏天的浇水频率比冬天高。如果一段时间不在家，就用几个aqua globe装水插进花盆，水还是会很快用完，但植物适应力强，可以勉强支撑。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;施肥&lt;/strong&gt; 买了一瓶plant food,浇水时兑一点进去，求个心安。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;防虫&lt;/strong&gt; 这种植物不怎么生虫，但是曾经看到类似spider mite的小虫子，就买了一瓶neem oil经常喷，很难闻，但似乎有效果。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;换盆&lt;/strong&gt; 如果根从排水孔伸出来或者植物停止生长（尽管冬天长得慢一点）说明该换土或换盆了。用普通potting mix就可以，每次换大1-2英寸的花盆比较合适。可以在地上铺好防雨布，换完容易清理。我照&lt;a href=&#34;https://www.thesill.com/blogs/care-miscellaneous/plant-care-repotting&#34;&gt;这个顺序&lt;/a&gt;去年和今年各换过一次，先把新土放进新花盆里再拿出植物比较好，否则拿出之后没地方放，只能找个地方暂时倚住。虽然尽量小心，但也会弄断一点根，只有看到植物在新花盆里继续长才能安心。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;辅助生长&lt;/strong&gt; 第一次换盆时把植物放歪了，买了plant support moss pole（软质的棍子）和茎绑在一起，就变直了。&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>钩针</title>
-      <link>/thoughts/crochet/</link>
+      <link>http://localhost:1313/servaltries/thoughts/crochet/</link>
       <pubDate>Sat, 11 Jan 2025 11:59:37 -0500</pubDate>
-      <guid>/thoughts/crochet/</guid>
+      <guid>http://localhost:1313/servaltries/thoughts/crochet/</guid>
       <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;&#xA;&lt;p&gt;钩针融合了重复性、创造力、patterns和细节，（没证据，个人认为）是一项对ND人友好的爱好。作为看得见摸得着的实体手工，每织一点都给人实际的成就感（不像某些工作，不给人实际的成就感）；容错率很高，不小心数错针数也容易调整；就算调整不了，把织好的部分拆开也很解压。&lt;/p&gt;&#xA;&lt;h2 id=&#34;学习&#34;&gt;学习&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;寻找感兴趣的花样，我最开始从Amazon买套装，后来从Esty和reddit上找花样。Amazon套装一般会附带Youtube视频教程，查看账号会发现丰富的其他教程。&lt;/li&gt;&#xA;&lt;li&gt;熟悉基本概念，如magic ring/slip knot/各类stitches。&lt;/li&gt;&#xA;&lt;li&gt;上手尝试，熟悉各类stitches的效果，如single crochet由点到面很规整，double/treble是一长条，picot是尖尖，chain加上其他stitches可制造平滑或尖锐的几何形状，increase/decrease用于伸缩等。&lt;/li&gt;&#xA;&lt;li&gt;辅以其他手工元素，如填充材料（可用医用棉球代替）、缝线、塑形用的铁丝、胶枪、fabric stiffener。&lt;/li&gt;&#xA;&lt;li&gt;（待尝试）自己设计花样，也可以从网课学习。&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;尝试过的花样&#34;&gt;尝试过的花样&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;盆栽：多肉、仙人掌、可用作杯垫的花花，包含花盆和植物两部分&lt;/li&gt;&#xA;&lt;li&gt;花卉：向日葵、郁金香、玫瑰、薰衣草、百合、雏菊等，需要铁丝塑形和充当花茎，以及胶枪固定枝叶&lt;/li&gt;&#xA;&lt;li&gt;玩偶：薮猫（自己加了猫爪）、柴犬、兔子、南瓜女巫，需要填充材料，可选safety eyes或自己织眼睛&lt;/li&gt;&#xA;&lt;li&gt;圣诞装饰：蝴蝶结、铃铛、圆球、雪花（软塌塌）&lt;/li&gt;&#xA;&lt;li&gt;待尝试：给雪花塑形、可穿戴饰品（耳夹、围巾等）&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;其他&#34;&gt;其他&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;防沉迷：沉迷钩针容易腰酸背痛脖子痛。我的应对方法是利用自己启动困难的特点人为制造困难。劝说自己放下针线、迅速把所有材料放进盒子、把盒子放到非触手可及的地方，然后就会因为手伸不到无法继续钩针。XD&lt;/li&gt;&#xA;&lt;li&gt;做礼物：只送给最亲近的人（送什么都会开心的人）。感觉其他人对手工制品和买来的玩偶的态度也许都差不多。&lt;/li&gt;&#xA;&lt;li&gt;救命！好饿！&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
   </channel>
