@@ -79,8 +79,7 @@
 <link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">
 {{ end }}
 
-{{ $style := resources.Get "css/style.css" | minify | fingerprint }}
-<link rel="stylesheet" href="{{ $style.Permalink }}">
+<link href="{{ .Site.BaseURL }}css/style.css" rel="stylesheet">
 
 <link rel="stylesheet"
           href="https://fonts.googleapis.com/css?family=Material+Icons">
@@ -169,8 +168,7 @@
 
 <!-- head custom -->
 {{- partial "extended_head.html" . }}
-{{ $script := resources.Get "js/like-button.js" | minify | fingerprint }}
-<script src="{{ $script.Permalink }}" defer integrity="{{ $script.Data.Integrity }}"></script>
+<script src="{{ .Site.BaseURL }}js/like-button.js"></script>
 
 
 </head>
