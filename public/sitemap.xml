@@ -2,29 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/servaltries/thoughts/</loc>
+    <loc>https://dgg-temp.github.io/servaltries/thoughts/</loc>
+    <lastmod>2025-01-17T15:23:34-05:00</lastmod>
+  </url><url>
+    <loc>https://dgg-temp.github.io/servaltries/thoughts/stiffen_snowflakes/</loc>
+    <lastmod>2025-01-17T15:23:34-05:00</lastmod>
+  </url><url>
+    <loc>https://dgg-temp.github.io/servaltries/</loc>
+    <lastmod>2025-01-17T15:23:34-05:00</lastmod>
+  </url><url>
+    <loc>https://dgg-temp.github.io/servaltries/thoughts/repot_plant/</loc>
     <lastmod>2025-01-13T14:42:30-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/servaltries/thoughts/repot_plant/</loc>
-    <lastmod>2025-01-13T14:42:30-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/servaltries/</loc>
-    <lastmod>2025-01-13T14:42:30-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/servaltries/life/</loc>
+    <loc>https://dgg-temp.github.io/servaltries/life/</loc>
     <lastmod>2025-01-11T17:56:27-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/servaltries/life/soft-hard-drinks/</loc>
+    <loc>https://dgg-temp.github.io/servaltries/life/soft-hard-drinks/</loc>
     <lastmod>2025-01-11T17:56:27-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/servaltries/thoughts/crochet/</loc>
+    <loc>https://dgg-temp.github.io/servaltries/thoughts/crochet/</loc>
     <lastmod>2025-01-11T11:59:37-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/servaltries/life/muffins/</loc>
+    <loc>https://dgg-temp.github.io/servaltries/life/muffins/</loc>
     <lastmod>2025-01-10T18:54:38-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/servaltries/categories/</loc>
+    <loc>https://dgg-temp.github.io/servaltries/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/servaltries/tags/</loc>
+    <loc>https://dgg-temp.github.io/servaltries/tags/</loc>
   </url>
 </urlset>
