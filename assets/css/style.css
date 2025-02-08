@@ -19,3 +19,9 @@
 #like-count {
   font-weight: bold;
 }
+
+.center-title figcaption {
+    text-align: center;
+    font-size: 1rem; /* Adjust font size if needed */
+    margin-top: 10px; /* Add space above title */
+}
