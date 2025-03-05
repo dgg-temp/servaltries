@@ -12,4 +12,5 @@ title = '半软半硬饮品'
 - 梅酒+豆沙+牛奶+栗子：绵密温和（竟令人暖心！）
 - 清酒+可可粉+牛奶+糖+香草精+棉花糖：大人喝的暖呼呼热巧
 - 朗姆酒+菠萝汁+coconut cream: Piña Colada，用了[这个食谱](https://www.seriouseats.com/pina-colada-tropical-rum-cocktail-pineapple-coconut-recipe):用无糖coconut cream + syrup syrup或用含糖cream of coconut(最好用瓶装，罐装会固液分离)和罐头菠萝tidbits，加青柠汁一起冷冻，然后加朗姆酒打碎成冰沙。
+- （无酒精）冻酸奶：酸奶、冷冻水果、奶油奶酪和一点枫糖浆打碎
 
