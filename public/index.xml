@@ -2,23 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>薮猫试图</title>
-    <link>https://dgg-temp.github.io/servaltries/</link>
+    <link>http://localhost:1313/servaltries/</link>
     <description>Recent content on 薮猫试图</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-hans</language>
-    <lastBuildDate>Wed, 05 Mar 2025 13:57:12 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 02 May 2025 18:17:22 -0400</lastBuildDate>
     
-        <atom:link href="https://dgg-temp.github.io/servaltries/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/servaltries/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+        <item>
+        <title>应对简单模式的停电</title>
+        <link>http://localhost:1313/servaltries/learning/power_outage/</link>
+        <pubDate>Fri, 02 May 2025 18:17:22 -0400</pubDate>
+        
+        <guid>http://localhost:1313/servaltries/learning/power_outage/</guid>
+        <description>薮猫试图 http://localhost:1313/servaltries/learning/power_outage/ -&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;p&gt;前几天因为暴雨损坏了附近的电路，家里停了两天电，一时没有电、网络、热水，手机信号也很弱，很难联网。但也算是简单模式，因为有凉水，公寓附近没有损毁的树木和电线，学校里还有电和网络。在这里总结一下做了和学到的事情。&lt;/p&gt;
+&lt;h2 id=&#34;时间线&#34;&gt;时间线&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;第一天晚上8点左右停电，担心影响开会，预约了第二天早晨的图书馆学习室。&lt;/li&gt;
+&lt;li&gt;第二天上午在图书馆开会并充电；餐馆也因为停电关门了，就等了很久公交回家。下午在Instacart上买了东西，在家玩(\T_T/)，得知第二天晚上可能来电，然后洗漱早睡。&lt;/li&gt;
+&lt;li&gt;第三天上午去咖啡馆充电，然后去shelter照顾猫猫，中午回家，下午在图书馆充电，然后晚上来电了。&lt;/li&gt;
+&lt;li&gt;第四天慢慢尝试冰箱里还有哪些东西能吃。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;应对停电的注意事项&#34;&gt;应对停电的注意事项&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;食物：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;碳水（面包/米布丁/速食燕麦）&lt;/li&gt;
+&lt;li&gt;蛋白质（罐头午餐肉/鸡胸肉/鱼/牛肉干/坚果）&lt;/li&gt;
+&lt;li&gt;维生素（新鲜蔬果、苹果泥、干果、药片）&lt;/li&gt;
+&lt;li&gt;速溶咖啡/饮料&lt;/li&gt;
+&lt;li&gt;瓶装水&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;洗漱&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;dry shampoo&lt;/li&gt;
+&lt;li&gt;湿巾&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;照明&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;蜡烛和打火机&lt;/li&gt;
+&lt;li&gt;如果停电时间延长就考虑买些电池或太阳能设备：灯/热水壶或饭盒/小风扇/收音机&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;其他措施&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;看到极端天气预报时，给电子设备和充电宝充好电，准备冰块放在冷冻室&lt;/li&gt;
+&lt;li&gt;熟悉可能有电的地点，之后自带插排去充电&lt;/li&gt;
+&lt;li&gt;下载离线地图&lt;/li&gt;
+&lt;li&gt;准备好小额现金，熟悉重要文件的位置&lt;/li&gt;
+&lt;li&gt;娱乐选择：钩针、下载好的播客和书&lt;/li&gt;
+&lt;li&gt;关注power outage map、天气、聊天群的消息&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;想法&#34;&gt;想法&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;有电的地方感觉很现代&amp;hellip;图书馆/咖啡馆/shelter之类有灯的地方&lt;/li&gt;
+&lt;li&gt;因为一直meal prep+微波炉吃饭，所以家里能直接当饭吃的东西很少，甚至想过干吃方便面，还好有Instacart买了吃的。&lt;/li&gt;
+&lt;li&gt;突然不能用电有种久违的平静？睡眠质量居然也还好。&lt;/li&gt;
+&lt;/ul&gt;
+- http://localhost:1313/servaltries/learning/power_outage/ - </description>
+        </item>
     
     
     
         <item>
         <title>做志愿者照顾猫</title>
-        <link>https://dgg-temp.github.io/servaltries/thoughts/shelter/</link>
+        <link>http://localhost:1313/servaltries/thoughts/shelter/</link>
         <pubDate>Wed, 05 Mar 2025 13:57:12 -0500</pubDate>
         
-        <guid>https://dgg-temp.github.io/servaltries/thoughts/shelter/</guid>
-        <description>薮猫试图 https://dgg-temp.github.io/servaltries/thoughts/shelter/ -&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+        <guid>http://localhost:1313/servaltries/thoughts/shelter/</guid>
+        <description>薮猫试图 http://localhost:1313/servaltries/thoughts/shelter/ -&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
 &lt;p&gt;从两周前开始每周一次去shelter照顾猫。家里和自己从未养过猫，所以窝一直没怎和猫接触过，唯一例外是一年前邻居家橘猫意外跑上来，窝帮它找家。但窝非常喜欢猫（是ND人的special interest），小时候去亲戚邻居家对猫最感兴趣，也经常在网上看猫猫图片视频，会看shelter网站想象自己养猫，所以能去shelter照顾猫可以打破&lt;code&gt;叶公好猫&lt;/code&gt;惯例。&lt;/p&gt;
 &lt;h2 id=&#34;经过&#34;&gt;经过&lt;/h2&gt;
 &lt;h3 id=&#34;申请&#34;&gt;申请&lt;/h3&gt;
@@ -37,22 +99,46 @@
 &lt;li&gt;猫猫都油光水滑比较健壮，可见来shelter之后生活不错；见到了几只独眼猫猫，可能流浪时很辛苦，不过现在很友善。&lt;/li&gt;
 &lt;li&gt;看到猫猫健康生活窝也很幸福，喵喵喵咪嗷！&lt;/li&gt;
 &lt;/ul&gt;
-- https://dgg-temp.github.io/servaltries/thoughts/shelter/ - </description>
+&lt;h2 id=&#34;补充&#34;&gt;补充&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;结识的四位友猫突然同时被领养，个人信息在网站上一并消失了。猫猫去新家肯定是好事，在shelter仔细观察也发现有的猫会在多猫多人的新环境觉得不安。但突如其来的改变让人特别伤心（ND人幻想：如果一切都不变就好了，就什么也不会失去了）。还有两位可能成为友猫，下周试试看。按照chat老师的建议，窝把对友猫的回忆记录在这里。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;强壮海盗狸花猫：第一只对窝表示友好的猫，会用脑袋蹭蹭、把前爪搭在窝身上、打哈欠，在需要挪开的猫窝里睡觉。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;青春海盗狸花猫：对所有人友善活泼的小宝贝，身手矫健，对清洁工具很好奇&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;气质绿眼睛狸白：占据了需要挪开的猫窝，会闻闻窝的手指&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;喜欢关注的虎斑：非常友好，会轻声喵喵叫呼噜噜，爬上最高处平静舔毛，吸引了窗外来所有来参观的人类幼崽&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;甜美黑猫：占据了需要挪开的毛巾&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;平静黄眼睛黑猫：喜欢玩厨房纸巾卷，但人把纸巾拿开也不会抱怨&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+- http://localhost:1313/servaltries/thoughts/shelter/ - </description>
         </item>
     
     
     
         <item>
         <title>自制钩针耳夹</title>
-        <link>https://dgg-temp.github.io/servaltries/thoughts/crochet_earrings/</link>
+        <link>http://localhost:1313/servaltries/thoughts/crochet_earrings/</link>
         <pubDate>Sat, 08 Feb 2025 15:20:20 -0500</pubDate>
         
-        <guid>https://dgg-temp.github.io/servaltries/thoughts/crochet_earrings/</guid>
-        <description>薮猫试图 https://dgg-temp.github.io/servaltries/thoughts/crochet_earrings/ -&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+        <guid>http://localhost:1313/servaltries/thoughts/crochet_earrings/</guid>
+        <description>薮猫试图 http://localhost:1313/servaltries/thoughts/crochet_earrings/ -&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
 &lt;p&gt;这几星期的娱乐活动是钩针耳夹！整个过程非常有趣，会产生“可爱的小东西hiahiahia”的快乐；可以按自己的需求和喜好制作，比完全按照图解钩针多一点成就感；相比玩具、花卉或其他装饰品，我个人更容易因为佩戴耳夹对它们产生情感联系。体验下来制作过程有这些要点：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;耳夹太小了，用的针线比以前更小，针目大小不一就很明显，所以用力要均匀。&lt;/li&gt;
-&lt;li&gt;要在现成的图解基础上不断实验、适当删改，否则成品要么太大要么没形状，令人泄气。可以搜xx crochet earring/xx mini crochet寻找灵感，不过试来试去、拆了做做了拆会有点无奈，实在试不出图解就改变思路做个别的。我一开始做不出搭配海星的贝壳，就把海星当成普通星星搭配了月亮，后来做出贝壳也可以一星二用XD&lt;/li&gt;
+&lt;li&gt;要在现成的图解基础上不断实验、适当删改，否则成品要么太大要么没形状。可以搜xx crochet earring/xx mini crochet寻找灵感，然后试来试去、拆了做做了拆，实在试不出来就改变思路做个别的。我一开始做不出搭配海星的贝壳，就把海星当成普通星星搭配了月亮，后来做出贝壳也可以一星二用XD&lt;/li&gt;
 &lt;li&gt;要用到一点制作首饰的材料。&lt;/li&gt;
 &lt;li&gt;考虑到搭配，要根据衣服颜色来选线的颜色。我的衣服黑白居多所以不要紧。&lt;/li&gt;
 &lt;/ol&gt;
@@ -100,39 +186,41 @@
     &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-- https://dgg-temp.github.io/servaltries/thoughts/crochet_earrings/ - </description>
+- http://localhost:1313/servaltries/thoughts/crochet_earrings/ - </description>
         </item>
     
     
     
         <item>
         <title>试食补充剂？</title>
-        <link>https://dgg-temp.github.io/servaltries/life/supplements/</link>
+        <link>http://localhost:1313/servaltries/life/supplements/</link>
         <pubDate>Sat, 01 Feb 2025 11:28:21 -0500</pubDate>
         
-        <guid>https://dgg-temp.github.io/servaltries/life/supplements/</guid>
-        <description>薮猫试图 https://dgg-temp.github.io/servaltries/life/supplements/ -&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+        <guid>http://localhost:1313/servaltries/life/supplements/</guid>
+        <description>薮猫试图 http://localhost:1313/servaltries/life/supplements/ -&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
 &lt;p&gt;作为长睡眠低能量人，每天两杯咖啡甚至不够保持能量，所以窝试图食用补充剂。目前尝试过以下几种，效果和副作用都不太清楚，也不是每天吃，偶尔不记得就算了。每个人也不一样，只是非常个人的记录，绝对没有推荐别人服用的意思。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Lexapro：是抗抑郁焦虑的处方药，需要医生指导！原理是提高血清素水平。或许会影响睡眠，所以服用时间因人而异。&lt;/li&gt;
-&lt;li&gt;高丽人参茶：速溶，放在咖啡里&lt;/li&gt;
+&lt;li&gt;高丽人参茶：速溶，放在咖啡里，喝了之后有很明显的清醒感觉&lt;/li&gt;
 &lt;li&gt;SATO Yunker Sonne Royal:是糖衣片，含黄芪，每日两次每次2片，和参茶互为代替&lt;/li&gt;
 &lt;li&gt;鱼油：奥米伽-3脂肪酸的膳食来源之一&lt;/li&gt;
-&lt;li&gt;维生素D：不要和咖啡一起服用&lt;/li&gt;
-&lt;li&gt;茶氨酸：帮助舒缓压力，或者可以直接喝茶&lt;/li&gt;
+&lt;li&gt;维生素D：不要和咖啡一起服用，窝干脆安排在了睡前&lt;/li&gt;
+&lt;li&gt;茶氨酸：帮助舒缓压力，窝下午吃巨困，但晚上吃还好&lt;/li&gt;
+&lt;li&gt;褪黑素：帮助调整作息，但窝吃了会做很焦虑的梦并出汗，醒了没有好好休息的感觉（不吃倒也会）&lt;/li&gt;
+&lt;li&gt;过敏药(claritin)&amp;hellip;?:可缓解季节性过敏症状，副作用是会困&lt;/li&gt;
 &lt;/ul&gt;
-- https://dgg-temp.github.io/servaltries/life/supplements/ - </description>
+- http://localhost:1313/servaltries/life/supplements/ - </description>
         </item>
     
     
     
         <item>
         <title>一些网文（咳）</title>
-        <link>https://dgg-temp.github.io/servaltries/thoughts/novels/</link>
+        <link>http://localhost:1313/servaltries/thoughts/novels/</link>
         <pubDate>Mon, 20 Jan 2025 10:12:25 -0500</pubDate>
         
-        <guid>https://dgg-temp.github.io/servaltries/thoughts/novels/</guid>
-        <description>薮猫试图 https://dgg-temp.github.io/servaltries/thoughts/novels/ -&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+        <guid>http://localhost:1313/servaltries/thoughts/novels/</guid>
+        <description>薮猫试图 http://localhost:1313/servaltries/thoughts/novels/ -&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
 &lt;p&gt;一直在看网络小说感觉不太好意思，这是寻求stimulation的快捷方式，尽管大部分时候其实有别的正经事情等着。让自己沉浸在小说里、在电脑前坐太久会腰酸背痛，眼睛也不舒服所以把眼药水放在身边。个人偏好是女主角和朋友在诡异世界探索，不时穿插稍微轻松的内容，没什么感情线。主角都是善于利用身边资源、不会“被未知吓倒继而无法前进”的高能量人，和我不一样。看多了发现有些设定会类似，比如不少主角需要开门关门穿门。&lt;/p&gt;
 &lt;h2 id=&#34;目前看过的小说&#34;&gt;目前看过的小说&lt;/h2&gt;
 &lt;ul&gt;
@@ -145,18 +233,18 @@
 &lt;li&gt;《为什么它永无止境》：文笔很好&lt;/li&gt;
 &lt;li&gt;《女主对此感到厌烦》&lt;/li&gt;
 &lt;/ul&gt;
-- https://dgg-temp.github.io/servaltries/thoughts/novels/ - </description>
+- http://localhost:1313/servaltries/thoughts/novels/ - </description>
         </item>
     
     
     
         <item>
         <title>硬化雪花</title>
-        <link>https://dgg-temp.github.io/servaltries/thoughts/stiffen_snowflakes/</link>
+        <link>http://localhost:1313/servaltries/thoughts/stiffen_snowflakes/</link>
         <pubDate>Fri, 17 Jan 2025 15:23:34 -0500</pubDate>
         
-        <guid>https://dgg-temp.github.io/servaltries/thoughts/stiffen_snowflakes/</guid>
-        <description>薮猫试图 https://dgg-temp.github.io/servaltries/thoughts/stiffen_snowflakes/ -&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+        <guid>http://localhost:1313/servaltries/thoughts/stiffen_snowflakes/</guid>
+        <description>薮猫试图 http://localhost:1313/servaltries/thoughts/stiffen_snowflakes/ -&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
 &lt;p&gt;为了装饰迷你圣诞树，上周织出了软软的雪花，但边缘会卷起来，所以需要塑形。这次从Etsy买的图样附带了塑形教程，大约需要24小时才能干透，雪花从软趴趴变挺括了，但图钉扎出的小孔有点明显，背面也有点胶水和图钉生锈的痕迹，改善方法还在调试中。&lt;/p&gt;
 &lt;h2 id=&#34;材料&#34;&gt;材料&lt;/h2&gt;
 &lt;ul&gt;
@@ -182,18 +270,18 @@
 &lt;/ol&gt;
 &lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;
 &lt;p&gt;打算送咨询师一个，但对送礼物很不熟练。今天讲述了织雪花的事情，询问了她是否需要一个（尽管圣诞节已经过去，想必人们都在把装饰品收纳起来），然后问了她喜欢的颜色，打算下周带一个。&lt;/p&gt;
-- https://dgg-temp.github.io/servaltries/thoughts/stiffen_snowflakes/ - </description>
+- http://localhost:1313/servaltries/thoughts/stiffen_snowflakes/ - </description>
         </item>
     
     
     
         <item>
         <title>照顾唯一的盆栽</title>
-        <link>https://dgg-temp.github.io/servaltries/thoughts/repot_plant/</link>
+        <link>http://localhost:1313/servaltries/thoughts/repot_plant/</link>
         <pubDate>Mon, 13 Jan 2025 14:42:30 -0500</pubDate>
         
-        <guid>https://dgg-temp.github.io/servaltries/thoughts/repot_plant/</guid>
-        <description>薮猫试图 https://dgg-temp.github.io/servaltries/thoughts/repot_plant/ -&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+        <guid>http://localhost:1313/servaltries/thoughts/repot_plant/</guid>
+        <description>薮猫试图 http://localhost:1313/servaltries/thoughts/repot_plant/ -&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
 &lt;p&gt;两年前开始养的&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E8%8A%B1%E5%8F%B6%E4%B8%87%E5%B9%B4%E9%9D%92&#34;&gt;花叶万年青&lt;/a&gt;(Dieffenbachia/dumb cane/黛粉芋)现在已经长到了半人高。当初在网上搜了适合新手的坚强盆栽，忐忑地买回来，照着网上的方法照顾，看着卷起的嫩叶逐渐舒展、绿色变深时觉得很安心。很感激它一直提供陪伴，同城搬家容易带，不知道长距离搬家时怎么办，应该也有办法吧。花叶万年青是一种好养的植物，适应力强，但总结下来还是有些杂七杂八的注意事项；如果是娇贵的植物想必更难照顾。&lt;/p&gt;
 &lt;h2 id=&#34;新手的护理&#34;&gt;新手的护理&lt;/h2&gt;
 &lt;ul&gt;
@@ -206,18 +294,18 @@
 &lt;li&gt;&lt;strong&gt;换盆&lt;/strong&gt; 如果根从排水孔伸出来或者植物停止生长（尽管冬天长得慢一点）说明该换土或换盆了。用普通potting mix就可以，每次换大1-2英寸的花盆比较合适。可以在地上铺好防雨布或剪开的垃圾袋，换完容易清理。我照&lt;a href=&#34;https://www.thesill.com/blogs/care-miscellaneous/plant-care-repotting&#34;&gt;这个顺序&lt;/a&gt;去年和今年各换过一次，先把新土放进新花盆里再拿出植物比较好，否则拿出之后没地方放，只能找个地方暂时倚住。虽然尽量小心，但也会弄断一点根，只有看到植物在新花盆里继续长才能安心。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;辅助生长&lt;/strong&gt; 第一次换盆时把植物放歪了，买了plant support moss pole（软质的棍子）和茎绑在一起，就变直了。&lt;/li&gt;
 &lt;/ul&gt;
-- https://dgg-temp.github.io/servaltries/thoughts/repot_plant/ - </description>
+- http://localhost:1313/servaltries/thoughts/repot_plant/ - </description>
         </item>
     
     
     
         <item>
         <title>半软半硬饮品</title>
-        <link>https://dgg-temp.github.io/servaltries/life/soft-hard-drinks/</link>
+        <link>http://localhost:1313/servaltries/life/soft-hard-drinks/</link>
         <pubDate>Sat, 11 Jan 2025 17:56:27 -0500</pubDate>
         
-        <guid>https://dgg-temp.github.io/servaltries/life/soft-hard-drinks/</guid>
-        <description>薮猫试图 https://dgg-temp.github.io/servaltries/life/soft-hard-drinks/ -&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+        <guid>http://localhost:1313/servaltries/life/soft-hard-drinks/</guid>
+        <description>薮猫试图 http://localhost:1313/servaltries/life/soft-hard-drinks/ -&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
 &lt;p&gt;（听说）喝酒对脑细胞有不可逆的损伤。我非常需要脑细胞，所以只能喝一点点。用家里的酒尝试了半软半硬饮品，以便想喝点什么时克服启动障碍快速做出来。和人类聊完天时经常想喝点东西来平静大脑，或许是一种self-medication?&lt;/p&gt;
 &lt;h2 id=&#34;尝试的搭配&#34;&gt;尝试的搭配&lt;/h2&gt;
 &lt;ul&gt;
@@ -228,18 +316,18 @@
 &lt;li&gt;朗姆酒+菠萝汁+coconut cream: Piña Colada，用了&lt;a href=&#34;https://www.seriouseats.com/pina-colada-tropical-rum-cocktail-pineapple-coconut-recipe&#34;&gt;这个食谱&lt;/a&gt;:用无糖coconut cream + syrup syrup或用含糖cream of coconut(最好用瓶装，罐装会固液分离)和罐头菠萝tidbits，加青柠汁一起冷冻，然后加朗姆酒打碎成冰沙。&lt;/li&gt;
 &lt;li&gt;（无酒精）冻酸奶：酸奶、冷冻水果、奶油奶酪和一点枫糖浆打碎&lt;/li&gt;
 &lt;/ul&gt;
-- https://dgg-temp.github.io/servaltries/life/soft-hard-drinks/ - </description>
+- http://localhost:1313/servaltries/life/soft-hard-drinks/ - </description>
         </item>
     
     
     
         <item>
         <title>钩针</title>
-        <link>https://dgg-temp.github.io/servaltries/thoughts/crochet/</link>
+        <link>http://localhost:1313/servaltries/thoughts/crochet/</link>
         <pubDate>Sat, 11 Jan 2025 11:59:37 -0500</pubDate>
         
-        <guid>https://dgg-temp.github.io/servaltries/thoughts/crochet/</guid>
-        <description>薮猫试图 https://dgg-temp.github.io/servaltries/thoughts/crochet/ -&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+        <guid>http://localhost:1313/servaltries/thoughts/crochet/</guid>
+        <description>薮猫试图 http://localhost:1313/servaltries/thoughts/crochet/ -&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
 &lt;p&gt;钩针融合了重复性、创造力、patterns和细节，（没证据，个人认为）是一项对ND人友好的爱好。作为看得见摸得着的实体手工，每织一点都给人实际的成就感（不像某些工作，不给人实际的成就感）；容错率很高，不小心数错针数也容易调整；就算调整不了，把织好的部分拆开也很解压。&lt;/p&gt;
 &lt;h2 id=&#34;学习&#34;&gt;学习&lt;/h2&gt;
 &lt;ol&gt;
@@ -264,18 +352,18 @@
 &lt;li&gt;做礼物：只送给最亲近的人（送什么都会开心的人）。感觉其他人对手工制品和买来的玩偶的态度也许都差不多。&lt;/li&gt;
 &lt;li&gt;救命！好饿！&lt;/li&gt;
 &lt;/ol&gt;
-- https://dgg-temp.github.io/servaltries/thoughts/crochet/ - </description>
+- http://localhost:1313/servaltries/thoughts/crochet/ - </description>
         </item>
     
     
     
         <item>
         <title>麦芬</title>
-        <link>https://dgg-temp.github.io/servaltries/life/muffins/</link>
+        <link>http://localhost:1313/servaltries/life/muffins/</link>
         <pubDate>Fri, 10 Jan 2025 18:54:38 -0500</pubDate>
         
-        <guid>https://dgg-temp.github.io/servaltries/life/muffins/</guid>
-        <description>薮猫试图 https://dgg-temp.github.io/servaltries/life/muffins/ -&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+        <guid>http://localhost:1313/servaltries/life/muffins/</guid>
+        <description>薮猫试图 http://localhost:1313/servaltries/life/muffins/ -&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
 &lt;p&gt;最近每周末烤12个麦芬作为一周早餐（如果一打有14个就好了），只需微波炉加热30秒，再加一杯咖啡和一个水果。如果大脑不用思考早晨吃什么，就能省出来一点点空间用来想其他事情，比如吃药和维生素片、记住自己吃了药之类。最初的尝试始于&lt;a href=&#34;https://www.youtube.com/@shangshikitchen/featured&#34;&gt;尚食厨房&lt;/a&gt;的&lt;a href=&#34;https://www.youtube.com/watch?v=KnzLNGCGH_o&#34;&gt;减糖蓝莓麦芬食谱&lt;/a&gt;。&lt;/p&gt;
 &lt;p&gt;（无证据）听说NT人的大脑不会太操心我渴了饿了吗/吃什么/和谁讲什么话/周围好吵怎么办，很多生活琐事都是自动化运行，所以有更多余裕做别的，而我作为ND人试图通过routine达到拟自动化的效果。&lt;/p&gt;
 &lt;p&gt;一周六天吃麦芬，剩下一天吃牛奶燕麦坚果葡萄干，或者英式麦芬和煎蛋XD&lt;/p&gt;
@@ -297,12 +385,12 @@
 &lt;/ol&gt;
 &lt;h2 id=&#34;搭配&#34;&gt;搭配&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;已尝试：蓝莓、苹果燕麦、蔓越莓橙子、香蕉碧根果、菠萝椰丝、黄桃酸奶、朗姆酒葡萄干、咖啡可可、红枣、草莓芝士、芝麻、茶、&lt;/li&gt;
+&lt;li&gt;已尝试：蓝莓、苹果燕麦、蔓越莓橙子、香蕉碧根果、菠萝椰丝、黄桃酸奶、朗姆酒葡萄干、咖啡可可、红枣、草莓芝士、芝麻、茶&lt;/li&gt;
 &lt;li&gt;待尝试：芒果椰子&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;第一次尝试博客&#34;&gt;第一次尝试博客&lt;/h2&gt;
 &lt;p&gt;每一步都会出错，现在饿到没有力气吃饭，原来的meal prep计划在脑子里盘旋却无法启动，救命。&lt;/p&gt;
-- https://dgg-temp.github.io/servaltries/life/muffins/ - </description>
+- http://localhost:1313/servaltries/life/muffins/ - </description>
         </item>
     
     
